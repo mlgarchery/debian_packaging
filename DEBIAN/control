@@ -1,0 +1,8 @@
+Package: gmail
+Version: 1.0.1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: mlgarchery
+Description: gmail deb package

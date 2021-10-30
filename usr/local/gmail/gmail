@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/local/gmail/brave --class=Gmail --app=https://mail.google.com
