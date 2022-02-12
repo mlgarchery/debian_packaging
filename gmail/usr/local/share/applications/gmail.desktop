@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Gmail
+Keywords=Google,Mail
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/local/bin/gmail --app=https://mail.google.com
+Icon=/usr/local/share/icons/gmail.png
+StartupWMClass=Gmail

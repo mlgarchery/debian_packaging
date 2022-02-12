@@ -1,2 +1,6 @@
-usr/local/gmail/*
-!usr/local/gmail/gmail
+# this folder contains upacked brave browser binary
+# brave-browser-nightly-1.32.61-linux-amd64.zip
+*/usr/local/gmail
+
+*.deb
+

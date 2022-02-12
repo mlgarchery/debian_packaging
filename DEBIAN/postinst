@@ -1,5 +1,0 @@
-#!/bin/sh
-
-chmod +x /usr/local/gmail/gmail
-
-exit 0
